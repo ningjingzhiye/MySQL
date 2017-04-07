@@ -65,7 +65,7 @@ delete from students where id = 2;
 
 ![](./imgs/13.png)
 
-# 排序 order by      asc（desc）
+# 排序 order by 列名称 asc（desc）
 默认升序
 
 desc是descend 降序意思 
