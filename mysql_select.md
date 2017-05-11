@@ -30,5 +30,33 @@
 # 10、查询Score表中的最高分的学生学号和课程号。（子查询或者排序）
 ![](./mysql_select/imgs/10.png)
 
+# 11、查询每门课的平均成绩。
+![](./mysql_select/imgs/11.png)
+
+# 12、查询Score表中至少有5名学生选修的并以3开头的课程的平均分数。
+
+![](./mysql_select/imgs/12.png)
+
+![](./mysql_select/imgs/12_2.png)
+
+![](./mysql_select/imgs/12_3.png)
+
+# 13、查询分数大于70，小于90的Sno列。
+![](./mysql_select/imgs/13.png)
+
+# 14、 查询所有学生的Sname、Cno和Degree列
+![](./mysql_select/imgs/14.png)
+
+# 15、查询所有学生的Sno、Cname和Degree列。
+
+# 16、查询所有学生的Sname、Cname和Degree列。
+![](./mysql_select/imgs/16.png)
+
+![](./mysql_select/imgs/16_2.png)
+
+# 17、查询“95033”班学生的平均分。
+![](./mysql_select/imgs/17.png)
+
+
 # 参考
 http://www.cnblogs.com/aqxss/p/6563625.html
