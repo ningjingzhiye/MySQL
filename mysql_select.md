@@ -1,3 +1,6 @@
+
+[数据库结构和数据](./mysql_select/mysql.sql)
+
 # 1、 查询Student表中的所有记录的Sname、Ssex和Class列
 
 ![](./mysql_select/imgs/01.png)
